@@ -3,4 +3,6 @@ void main() {
   print(boy);
   var name = "Amin";
   print(name);
+  var age = 29;
+  print(age);
 }
